@@ -1,0 +1,4 @@
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.Schemas\bin\Deployment\Probiztalk.Samples.LargeFileHandler.Schemas.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.Schemas\bin\Deployment\Probiztalk.Samples.LargeFileHandler.Schemas.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.Schemas\obj\Deployment\Probiztalk.Samples.LargeFileHandler.Schemas.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.Schemas\obj\Deployment\Probiztalk.Samples.LargeFileHandler.Schemas.pdb

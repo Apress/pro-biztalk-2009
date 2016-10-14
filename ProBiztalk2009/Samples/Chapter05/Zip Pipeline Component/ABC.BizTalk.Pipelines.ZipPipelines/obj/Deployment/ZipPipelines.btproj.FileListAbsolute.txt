@@ -1,0 +1,5 @@
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\ABC.BizTalk.Pipelines.ZipPipelines\bin\Debug\ZipPipelines.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\ABC.BizTalk.Pipelines.ZipPipelines\bin\Debug\ZipPipelines.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\ABC.BizTalk.Pipelines.ZipPipelines\bin\Debug\Probiztalk.Utility.PipelineZip.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\ABC.BizTalk.Pipelines.ZipPipelines\obj\Deployment\ZipPipelines.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\ABC.BizTalk.Pipelines.ZipPipelines\obj\Deployment\ZipPipelines.pdb

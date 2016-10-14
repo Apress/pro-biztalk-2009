@@ -1,0 +1,21 @@
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Program Files\Microsoft BizTalk Server 2004\Pipeline Components\Probiztalk.Utility.PipelineGnuPG.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Program Files\Microsoft BizTalk Server 2004\Pipeline Components\Probiztalk.Utility.PipelineGnuPG.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\obj\Debug\ResolveAssemblyReference.cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\obj\Debug\Probiztalk.Samples.PipelineComponents.GnuPGDecodeComponent.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\obj\Debug\Microsoft.Utility.PipelineGnuPG.GnuPGEncodeComponent.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\obj\Debug\Probiztalk.Utility.PipelineGnuPG.PipelineGnuPg.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\obj\Debug\Probiztalk.Utility.PipelineGnuPG.csproj.GenerateResource.Cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\obj\Debug\Probiztalk.Utility.PipelineGnuPG.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\obj\Debug\Probiztalk.Utility.PipelineGnuPG.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\Probiztalk.Utility.PipelineGnuPG.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\Probiztalk.Utility.PipelineGnuPG.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\Probiztalk.Samples.PipelineUtilities.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\Probiztalk.Utilities.Cryptography.GnuPG.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\Probiztalk.Samples.PipelineUtilities.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\Probiztalk.Utilities.Cryptography.GnuPG.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\bin\Debug\Probiztalk.Utility.PipelineGnuPG.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\bin\Debug\Probiztalk.Utility.PipelineGnuPG.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\bin\Debug\Probiztalk.Samples.PipelineUtilities.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\bin\Debug\Probiztalk.Utilities.Cryptography.GnuPG.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\bin\Debug\Probiztalk.Samples.PipelineUtilities.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.PipelineGnuPG\bin\Debug\Probiztalk.Utilities.Cryptography.GnuPG.pdb

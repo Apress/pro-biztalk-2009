@@ -1,0 +1,1 @@
+C:\ProBiztalk2009\Pro_BizTalk_2006-3185\Samples\Chapter06\Editing Suspended Messages\BizTalkSuspendedMessageHandlerService\obj\Debug\ResolveAssemblyReference.cache

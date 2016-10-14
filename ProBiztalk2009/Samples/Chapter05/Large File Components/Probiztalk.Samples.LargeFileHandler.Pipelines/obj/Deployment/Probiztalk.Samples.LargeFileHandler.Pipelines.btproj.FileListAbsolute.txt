@@ -1,0 +1,6 @@
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.Pipelines\bin\Debug\TR3.Pipelines.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.Pipelines\bin\Debug\TR3.Pipelines.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.Pipelines\bin\Debug\LargeFileHandler.PipelinesComponents.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.Pipelines\bin\Debug\Probiztalk.Samples.LargeFileHandler.Schemas.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.Pipelines\obj\Deployment\TR3.Pipelines.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.Pipelines\obj\Deployment\TR3.Pipelines.pdb

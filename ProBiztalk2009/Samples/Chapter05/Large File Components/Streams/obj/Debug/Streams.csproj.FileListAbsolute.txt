@@ -1,0 +1,10 @@
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Large File Components\Streams\bin\Debug\Streams.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Large File Components\Streams\bin\Debug\Streams.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Large File Components\Streams\obj\Debug\ResolveAssemblyReference.cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Large File Components\Streams\obj\Debug\Streams.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Large File Components\Streams\obj\Debug\Streams.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Streams\bin\Debug\Streams.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Streams\bin\Debug\Streams.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Streams\obj\Debug\ResolveAssemblyReference.cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Streams\obj\Debug\Streams.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Streams\obj\Debug\Streams.pdb

@@ -1,0 +1,5 @@
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.GnuPG\bin\Debug\Probiztalk.Utilities.Cryptography.GnuPG.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.GnuPG\bin\Debug\Probiztalk.Utilities.Cryptography.GnuPG.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.GnuPG\obj\Debug\ResolveAssemblyReference.cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.GnuPG\obj\Debug\Probiztalk.Utilities.Cryptography.GnuPG.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\PGP Pipeline Components\Probiztalk.Utilities.Cryptography.GnuPG\obj\Debug\Probiztalk.Utilities.Cryptography.GnuPG.pdb

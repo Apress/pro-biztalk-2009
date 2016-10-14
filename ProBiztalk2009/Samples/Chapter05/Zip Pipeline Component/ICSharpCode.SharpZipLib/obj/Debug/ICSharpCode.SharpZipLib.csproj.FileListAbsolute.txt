@@ -1,0 +1,10 @@
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\ICSharpCode.SharpZipLib\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\ICSharpCode.SharpZipLib\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\ICSharpCode.SharpZipLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\ICSharpCode.SharpZipLib\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\ICSharpCode.SharpZipLib\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\ICSharpCode.SharpZipLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.pdb

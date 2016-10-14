@@ -1,0 +1,10 @@
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\Microsoft.Samples.Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\Microsoft.Samples.Utilities\bin\Debug\ProBiztalk.Samples.PipelineUtilities.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\Microsoft.Samples.Utilities\bin\Debug\ProBiztalk.Samples.PipelineUtilities.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\Microsoft.Samples.Utilities\obj\Debug\ProBiztalk.Samples.PipelineUtilities.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\Microsoft.Samples.Utilities\obj\Debug\ProBiztalk.Samples.PipelineUtilities.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Samples.Utilities\bin\Debug\ProBiztalk.Samples.PipelineUtilities.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Samples.Utilities\bin\Debug\ProBiztalk.Samples.PipelineUtilities.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Samples.Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Samples.Utilities\obj\Debug\ProBiztalk.Samples.PipelineUtilities.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Samples.Utilities\obj\Debug\ProBiztalk.Samples.PipelineUtilities.pdb

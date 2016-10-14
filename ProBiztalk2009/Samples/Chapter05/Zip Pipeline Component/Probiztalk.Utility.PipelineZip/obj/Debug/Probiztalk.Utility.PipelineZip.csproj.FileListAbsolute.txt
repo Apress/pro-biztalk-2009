@@ -1,0 +1,24 @@
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\Microsoft.Utility.PipelineZip\obj\Debug\ResolveAssemblyReference.cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\Microsoft.Utility.PipelineZip\obj\Debug\Probiztalk.Utility.PipelineZip.ZipDecodeComponent.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\Microsoft.Utility.PipelineZip\obj\Debug\Probiztalk.Utility.PipelineZip.ZipEncodeComponent.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\Microsoft.Utility.PipelineZip\obj\Debug\Probiztalk.Utility.PipelineZip.csproj.GenerateResource.Cache
+C:\Program Files\Microsoft BizTalk Server 2009\Pipeline Components\Probiztalk.Utility.PipelineZip.dll
+C:\Program Files\Microsoft BizTalk Server 2009\Pipeline Components\Probiztalk.Utility.PipelineZip.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\Microsoft.Utility.PipelineZip\obj\Debug\Probiztalk.Utility.PipelineZip.PipelineZip.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\Microsoft.Utility.PipelineZip\obj\Debug\Probiztalk.Utility.PipelineZip.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Zip Pipeline Component\Microsoft.Utility.PipelineZip\obj\Debug\Probiztalk.Utility.PipelineZip.pdb
+C:\Program Files (x86)\Microsoft BizTalk Server 2009\Pipeline Components\Probiztalk.Utility.PipelineZip.dll
+C:\Program Files (x86)\Microsoft BizTalk Server 2009\Pipeline Components\Probiztalk.Utility.PipelineZip.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\bin\Debug\Probiztalk.Utility.PipelineZip.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\bin\Debug\Probiztalk.Utility.PipelineZip.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\bin\Debug\ProBiztalk.Samples.PipelineUtilities.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\bin\Debug\ProBiztalk.Samples.PipelineUtilities.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\obj\Debug\ResolveAssemblyReference.cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\obj\Debug\Probiztalk.Utility.PipelineZip.PipelineZip.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\obj\Debug\Probiztalk.Samples.PipelineComponents.ZipDecodeComponent.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\obj\Debug\Probiztalk.Samples.PipelineComponents.ZipEncodeComponent.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\obj\Debug\Probiztalk.Utility.PipelineZip.csproj.GenerateResource.Cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\obj\Debug\Probiztalk.Utility.PipelineZip.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Zip Pipeline Component\Probiztalk.Utility.PipelineZip\obj\Debug\Probiztalk.Utility.PipelineZip.pdb

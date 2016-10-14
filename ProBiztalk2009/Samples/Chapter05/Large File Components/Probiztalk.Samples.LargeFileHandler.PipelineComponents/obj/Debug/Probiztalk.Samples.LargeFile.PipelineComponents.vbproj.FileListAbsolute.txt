@@ -1,0 +1,22 @@
+C:\Program Files (x86)\Microsoft BizTalk Server 2009\Pipeline Components\LargeFileHandler.PipelinesComponents.dll
+C:\Program Files (x86)\Microsoft BizTalk Server 2009\Pipeline Components\LargeFileHandler.PipelinesComponents.pdb
+C:\Program Files (x86)\Microsoft BizTalk Server 2009\Pipeline Components\TR3.PipelineComponents.xml
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Large File Components\Microsoft.Samples.LargeFileHandler.PipelineComponents\obj\Debug\ResolveAssemblyReference.cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Large File Components\Microsoft.Samples.LargeFileHandler.PipelineComponents\obj\Debug\Probiztalk.Samples.LargeFileHandler.PipelinesComponents.DemoDecodingComponent.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Large File Components\Microsoft.Samples.LargeFileHandler.PipelineComponents\obj\Debug\Probiztalk.Samples.LargeFileHandler.PipelinesComponents.DemoEncodingComponent.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Large File Components\Microsoft.Samples.LargeFileHandler.PipelineComponents\obj\Debug\Probiztalk.Samples.LargeFile.PipelineComponents.vbproj.GenerateResource.Cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Large File Components\Microsoft.Samples.LargeFileHandler.PipelineComponents\obj\Debug\LargeFileHandler.PipelinesComponents.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Large File Components\Microsoft.Samples.LargeFileHandler.PipelineComponents\obj\Debug\TR3.PipelineComponents.xml
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter5\Large File Components\Microsoft.Samples.LargeFileHandler.PipelineComponents\obj\Debug\LargeFileHandler.PipelinesComponents.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.PipelineComponents\obj\Debug\ResolveAssemblyReference.cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.PipelineComponents\obj\Debug\Probiztalk.Samples.LargeFileHandler.PipelinesComponents.DemoDecodingComponent.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.PipelineComponents\obj\Debug\Probiztalk.Samples.LargeFileHandler.PipelinesComponents.DemoEncodingComponent.resources
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.PipelineComponents\obj\Debug\Probiztalk.Samples.LargeFile.PipelineComponents.vbproj.GenerateResource.Cache
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.PipelineComponents\obj\Debug\LargeFileHandler.PipelinesComponents.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.PipelineComponents\obj\Debug\TR3.PipelineComponents.xml
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.PipelineComponents\obj\Debug\LargeFileHandler.PipelinesComponents.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.PipelineComponents\bin\debug\LargeFileHandler.PipelinesComponents.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.PipelineComponents\bin\debug\LargeFileHandler.PipelinesComponents.pdb
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.PipelineComponents\bin\debug\TR3.PipelineComponents.xml
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.PipelineComponents\bin\debug\Streams.dll
+C:\Sandbox\Pro_BizTalk_2006-3185\Samples\Chapter05\Large File Components\Probiztalk.Samples.LargeFileHandler.PipelineComponents\bin\debug\Streams.pdb
