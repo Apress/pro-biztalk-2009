@@ -1,4 +1,4 @@
-#Apress Source Code
+# Apress Source Code
 
 This repository accompanies [*Pro BizTalk 2009*](http://www.apress.com/9781430219811) by George Dunphy, Harold Campos, Stephen Kaufman, Peter Kelcey, Sergei Moukhnitski, and David Peterson (Apress, 2009).
 
@@ -6,10 +6,10 @@ This repository accompanies [*Pro BizTalk 2009*](http://www.apress.com/978143021
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
-##Releases
+## Releases
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
 
-##Contributions
+## Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
